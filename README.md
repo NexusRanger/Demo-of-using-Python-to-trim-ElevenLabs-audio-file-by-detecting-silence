@@ -8,6 +8,6 @@ The 'theory' is to create a file from ElevenLabs, instilling some emotion by usi
 
 It's not very practial as a way to go about it, more of a demo and testbed
 
-Code is on Google Colab - Share Link: 
+Code is on Google Colab - Share Link to run code live: 
 
 https://colab.research.google.com/drive/1dEaLJn2svwy-XIjGZj1snvsCEZUdbJTC?usp=sharing
